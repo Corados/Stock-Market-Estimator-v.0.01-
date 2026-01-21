@@ -11,11 +11,11 @@ A Java-based application that analyzes and estimates stock market trends using f
 - This program is a program to predict in a simple equation do not try to push customer to buy the stock.
 
 ## RoadMap
-- [] v.01 Make a website to sketchy the program that we will make it
-- [] v.02 Based on CLI Analyze the data draw a slope of the previous stock market
-- [] v.03 Database(SQL/H2) connect
-- [] v.03 GUI Library(JavaFx)
-- [] v.04 RealTime Notification(Websocket) system
+- [ ] v.01 Make a website to sketchy the program that we will make it
+- [ ] v.02 Based on CLI Analyze the data draw a slope of the previous stock market
+- [ ] v.03 Database(SQL/H2) connect
+- [ ] v.03 GUI Library(JavaFx)
+- [ ] v.04 RealTime Notification(Websocket) system
 
  ## How we will analyze the Data
  - Based on Calculus calculate the changing and predict the future of the stock market.
